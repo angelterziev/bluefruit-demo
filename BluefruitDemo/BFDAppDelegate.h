@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  BFDAppDelegate.h
 //  BluefruitDemo
 //
 //  Created by Angel Terziev on 7.11.18.
@@ -8,9 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "BluefruitDemo-Swift.h"
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface BFDAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

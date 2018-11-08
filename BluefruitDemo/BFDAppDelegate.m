@@ -1,18 +1,20 @@
 //
-//  AppDelegate.m
+//  BFDAppDelegate.m
 //  BluefruitDemo
 //
 //  Created by Angel Terziev on 7.11.18.
 //  Copyright © 2018 Angel Terziev. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "BFDAppDelegate.h"
 
-@interface AppDelegate ()
+#import "BluefruitDemo-Swift.h"
+
+@interface BFDAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation BFDAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
