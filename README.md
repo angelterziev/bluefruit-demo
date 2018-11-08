@@ -1,6 +1,16 @@
 # bluefruit-demo
 Demoing how to use Bluefruit inside an existing obj-c project
 
+## Checkout sources and prepare to build
+From the Terminal
+1. `git clone https://github.com/angelterziev/bluefruit-demo.git`
+1. `cd bluefruit-demo`
+1. `git submodule init`
+1. `git submodule update --remote`
+1. `pod install`
+
+Then Load `BluefruitDemo.xcworkspace` into Xcode and build
+
 ## How to import swift into your Objective-C
 1. Create a new Project in Objective-C
 1. Create a new .swift file  
