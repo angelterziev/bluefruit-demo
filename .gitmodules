@@ -1,0 +1,4 @@
+[submodule "third_party/bluefruit"]
+	path = third_party/bluefruit
+	url = https://github.com/adafruit/Bluefruit_LE_Connect_v2.git
+	tag = iOS_v3.3.2
